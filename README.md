@@ -64,8 +64,8 @@ This project is an e-commerce platform designed to offer a seamless shopping exp
 ### Installation Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/ecommerce-app.git
-   cd ecommerce-app
+   git clone [https://github.com/your-repo/ecommerce-app](https://github.com/NavyaBoga1109/ecommerce_web_application).git
+   cd ecommerce-web-application
    ```
 2. **Set Up Database**:
    - Use the provided `scripts/db_schema.sql` to create the database schema.
